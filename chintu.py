@@ -22,8 +22,8 @@ def speak_ex(text):
     speaker.say(text)
     speaker.runAndWait()
 
-va_name = "chintu"
-speak_ex("hello bro iam your " + va_name + "how can i help you, tell me bro ")
+va_name = "Bheema"
+speak_ex("hello, iam your assistant " + va_name + "how can i help you today ")
 
 def take_command():
     command = ""
@@ -75,3 +75,4 @@ while True:
 
      
  
+
